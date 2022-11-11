@@ -1,0 +1,4 @@
+com\it_academy\testng\runner\OnlinerTestRunner.class
+com\it_academy\testng\hooks\DriverHooks.class
+com\it_academy\testng\hooks\ScreenshotHook.class
+com\it_academy\testng\steps\MenuSectionsSteps.class

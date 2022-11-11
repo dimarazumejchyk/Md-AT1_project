@@ -1,0 +1,4 @@
+com\it_academy\testng\pages\BasePage.class
+com\it_academy\testng\pages\DocsPage.class
+com\it_academy\testng\driver\DriverManager.class
+com\it_academy\testng\pages\HomePage.class

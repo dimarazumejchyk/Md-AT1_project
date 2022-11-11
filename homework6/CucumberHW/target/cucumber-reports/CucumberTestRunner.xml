@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testng-results failed="0" passed="2" skipped="0" total="2">
+    <suite duration-ms="16996" name="io.cucumber.core.plugin.TestNGFormatter">
+        <test duration-ms="16996" name="io.cucumber.core.plugin.TestNGFormatter">
+            <class name="As a user">
+                <test-method duration-ms="9803" finished-at="2022-11-11T13:56:56.670055400Z" name="Go to car market" started-at="2022-11-11T13:56:46.848189Z" status="PASS"/>
+            </class>
+            <class name="As a user">
+                <test-method duration-ms="6874" finished-at="2022-11-11T13:57:03.559857400Z" name="Go to Houses and apartments" started-at="2022-11-11T13:56:56.683051200Z" status="PASS"/>
+            </class>
+        </test>
+    </suite>
+</testng-results>
