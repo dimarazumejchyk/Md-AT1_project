@@ -13,7 +13,7 @@ public class CatalogPage {
     private static final String CATALOG_SECTION = "//ul[@class='catalog-navigation-classifier ']//span[contains(text(), '%s')]";
     private static final String ELEMENT_FROM_CATALOG_ASIDE_LIST = "//div[@class='catalog-navigation-list__aside-title' and text()= '%s']";
     private static final String ELEMENTS_FROM_CATALOG_CLASSIFIER = "//ul[@class='catalog-navigation-classifier ']"
-            +"//li[@class='catalog-navigation-classifier__item ']";
+            + "//li[@class='catalog-navigation-classifier__item ']";
     private static final String ELEMENTS_FROM_CATALOG_ASIDE_LIST = "//div[@class='catalog-navigation-list__aside catalog-navigation-list__aside_active']"
             + "//div[@class='catalog-navigation-list__aside-title']";
     private static final String ELEMENTS_FROM_CATALOG_DROPDOWN_LIST = "//div[@class='catalog-navigation-list__aside-item catalog-navigation-list__aside-item_active']" +
