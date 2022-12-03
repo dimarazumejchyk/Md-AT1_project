@@ -1,0 +1,1 @@
+{"uuid":"2dae425b-f311-496d-8360-3b7257a438b7","name":"com.it_academy.onliner.OnlinerTest","children":["d84825c6-ee07-40f9-9f6c-8b34134d468b"],"befores":[{"name":"init","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1667904338482,"stop":1667904339497}],"afters":[],"links":[],"start":1667904338387,"stop":1667904340129}
